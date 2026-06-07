@@ -1,6 +1,14 @@
 import requests
 import time
+from pathlib import Path
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+
+payloads = [
+    SCRIPT_DIR / "payload_kurzberatung.txt",
+    SCRIPT_DIR / "payload_50min.txt",
+    SCRIPT_DIR / "payload_hmt.txt",
+]
 
 # script should be used in a crontab like this:
 # */15 * * * * /usr/bin/python3 /path/to/script/fetch_and_send.py
@@ -15,18 +23,8 @@ headers = {
     "User-Agent": "Mozilla/5.0"
 }
 
-results = []
-payloads = [
-    "payload_kurzberatung.txt",
-    "payload_50min.txt",
-    "payload_hmt.txt"]
-
 
 results = []
-payloads = [
-    "payload_kurzberatung.txt",
-    "payload_50min.txt",
-    "payload_hmt.txt"]
 
 """
 wenn es keine Termine gibt, dann siehts so aus:
