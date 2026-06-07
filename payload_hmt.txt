@@ -1,0 +1,31 @@
+7|0|25|https://app.cituro.com/bookappointment/|1C6E5F11A9D7BD5F861885603931142B|com.cituro.commons.rpc.AppointmentSuggestionRPCService|getGroupEventSuggestions|J|java.lang.String/2004016611|com.cituro.commons.data.BookableEvent/1825014256|11ec4c53c8313f9d8be3e1ed8ff29535|java.lang.Integer/3438268394|#ffffff|com.cituro.commons.data.CancelAndRescheduleDeadline/838522919|com.cituro.commons.data.calendarevent.GroupEventType/3364007983|Liebe Studierende, aktuell sind leider keine Erstgesprächstermine eingetragen. 
+
+Bitte wenden sie sich direkt an unsere HMT Beraterin Frau Rahmlow:
+rahmlow@studentenwerk-leipzig.de
+
+Wenn sie aktuelle Informationen über neue Angebote oder freie Termine in unserer Beratung erhalten möchten tragen sie sich gerne in unseren Newsletter ein. Schreiben sie hierzu bitte eine Mail mit dem Betreff "Newsletter" an:  orga-psb@studentenwerk-leipzig.de
+|com.cituro.commons.data.WaitlistMoveupMethod/297490539|Vielen Dank für Ihre Terminbuchung in der Psychosozialen Studierendenberatung. Ihr 50-minütiger Gesprächstermin findet am ${startDate}, um ${startTime} bei ${resource.displayName} statt. 
+
+Aufgrund der vielen Nachfragen möchten wir sie bitten Ihre Teilnahme verbindlich einzuplanen.
+
+Bei Fragen, wie zum Beispiel die Anfrage für ein Gespräch in Präsenz wenden Sie sich bitte an ${resource.displayName} über die folgende E-Mail Adresse: ${resource.email!"n.a."}. Wenn sie allgemeine Fragen, oder Fragen zur Buchung haben können sie sich gerne an studierendenberatung@studentenwerk-leipzig.de wenden.|11ec61cb4e3f28e78bd6f1d234a6c496|java.sql.Timestamp/3040052672|Wir bieten Beratung in den Formaten Online, Telefon und Präsenz an. Bitte geben Sie bei Ihrer Terminanfrage an, welche Art des Gesprächs Sie bevorzugen. In Ihrer Buchungsbestätigung können sie dies über die angegebene Mailadresse anfragen.
+
+Wozu wir beraten:
+Sowohl das Studium selbst als auch das Studierendenleben kann hohe Anforderungen mit sich bringen. Daher sind Studienschwierigkeiten, persönliche Konfliktsituationen oder psychische Belastungen nichts Außergewöhnliches.
+
+Egal, ob Sie ...
+
+Zweifel an der Wahl Ihres Studiums,
+Prüfungsängste,
+Stress oder Selbstzweifel,
+Aufschiebeverhalten,
+Studienabschlussprobleme,
+Streit mit Ihrem:Ihrer Partner:in,
+Kontaktschwierigkeiten,
+Depressive Verstimmungen,
+Ängste/Hemmungen,
+Diskriminierungserfahrungen,
+Erfahrungen mit Gewalt oder sexuellen Übergriffen,
+Probleme mit Alkohol oder Drogen,
+Schwierigkeiten aufgrund psychischer Erkrankungen haben
+... oder andere Themen Sie belasten, Sie können sich jederzeit an uns wenden und erhalten fachkundigen Rat und individuelle Unterstützung bei der Lösung Ihrer persönlichen Problemstellung!|11ec61cf061840f18bd6f1d234a6c496|java.util.ArrayList/4159755760|com.cituro.commons.data.LocationId/1289327096|Erstgesprächstermin, 50 Min.für HMT Studierende |com.cituro.commons.data.payment.PaymentOption/594823811|Dieses Angebot ist für HMT Studierende. Die Beratung kann für HMT spezifische Anliegen, als auch allgemeine Anliegen genutzt werden. Vereinbaren Sie ein Gesprächstermin mit uns|java.lang.Float/1718559123|1|2|3|4|4|5|6|7|6|CX7|8|7|0|9|10|0|10|11|1|12|0|0|0|0|9|1|-5|9|0|0|13|-5|14|0|15|16|17|YafEuiw|0|1|CX7|17|X3Za2Go|0|0|0|18|50|0|19|0|0|20|1|21|8|0|0|22|1|23|0|1|0|24|0|0|25|19|0|

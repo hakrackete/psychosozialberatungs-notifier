@@ -1,0 +1,29 @@
+7|0|25|https://app.cituro.com/bookappointment/|1C6E5F11A9D7BD5F861885603931142B|com.cituro.commons.rpc.AppointmentSuggestionRPCService|getGroupEventSuggestions|J|java.lang.String/2004016611|com.cituro.commons.data.BookableEvent/1825014256|11ec4c53c8313f9d8be3e1ed8ff29535|java.lang.Integer/3438268394|#ffffff|com.cituro.commons.data.CancelAndRescheduleDeadline/838522919|com.cituro.commons.data.calendarevent.GroupEventType/3364007983|com.cituro.commons.data.WaitlistMoveupMethod/297490539|Vielen Dank für Ihre Terminbuchung in der Psychosozialen Studierendenberatung. Ihr 50-minütiger Gesprächstermin findet am ${startDate}, um ${startTime} bei ${resource.displayName} statt. 
+
+Aufgrund der vielen Nachfragen möchten wir Sie bitten Ihre Teilnahme verbindlich einzuplanen. Möglicherweise ist der geplante Termin noch etwas hin.
+
+Sollten Sie kurzfristig mit uns in Kontakt kommen wollen oder müssen, sind wir zu den Telefonsprechzeiten erreichbar (Di: 13:30-14:30Uhr unter +49 341 97 18 848 und Do: 10:00-11:00Uhr unter +49 1761 9659665) und über die 20minütige Kurzberatung, für die wöchentlich neue Termine montags bis 14:00Uhr freigeschaltet werden, unter https://app.cituro.com/booking/5278312?presetService11ec61ce11a0068b8bd6f1d234a6c496. 
+
+Falls Sie einen früheren Kontakt zu uns gefunden haben, bitten wir diesen 50 minütigen Gesprächstermin zu stornieren, damit dieser wieder freigegeben werden kann. Ihre Folgetermine können sie direkt mit Ihrer Berater:in ausmachen. Vielen Dank!
+
+Bei Fragen wenden Sie sich bitte an ${resource.displayName} über die folgende E-Mail Adresse: ${resource.email!"n.a."}. Wenn Sie allgemeine Fragen, oder Fragen zur Buchung haben können Sie sich gerne an studierendenberatung@studentenwerk-leipzig.de wenden.|11ec61cb4e3f28e78bd6f1d234a6c496|java.sql.Timestamp/3040052672|Wir bieten Einzelberatung vorzugsweise in Präsenz, aber auch telefonisch oder per Video an. Bitte geben Sie bei Ihrer Terminanfrage an, welche Art des Gesprächs Sie bevorzugen. 
+
+Wozu wir beraten:
+Sowohl das Studium selbst als auch das Studierendenleben kann hohe Anforderungen mit sich bringen. Daher sind Studienschwierigkeiten, persönliche Konfliktsituationen oder psychische Belastungen nichts Außergewöhnliches.
+
+Egal, ob Sie ...
+
+Zweifel an der Wahl Ihres Studiums,
+Prüfungsängste,
+Stress oder Selbstzweifel,
+Aufschiebeverhalten,
+Studienabschlussprobleme,
+Streit mit Ihrem:Ihrer Partner:in,
+Kontaktschwierigkeiten,
+Depressive Verstimmungen,
+Ängste/Hemmungen,
+Diskriminierungserfahrungen,
+Erfahrungen mit Gewalt oder sexuellen Übergriffen,
+Probleme mit Alkohol oder Drogen,
+Schwierigkeiten aufgrund psychischer Erkrankungen haben
+... oder andere Themen Sie belasten, Sie können sich jederzeit an uns wenden und erhalten fachkundigen Rat und individuelle Unterstützung bei der Lösung Ihrer persönlichen Problemstellung!|Wir bieten Einzelberatung vorzugsweise in Präsenz, aber auch telefonisch oder per Video an. |11ec61cc64b15a7bb06a756430fa6a9e|java.util.ArrayList/4159755760|com.cituro.commons.data.LocationId/1289327096|Erstgesprächstermin, 50 Min.|com.cituro.commons.data.payment.PaymentOption/594823811|Vereinbaren Sie ein Gesprächstermin mit uns|java.lang.Float/1718559123|1|2|3|4|4|5|6|7|6|CX7|8|7|0|9|10|0|10|11|1|12|0|0|0|0|9|1|-5|9|0|0|0|-5|13|0|14|15|16|YeYc9YI|0|1|CX7|16|X3ZWiOY|0|0|0|17|50|18|19|0|0|20|1|21|8|0|0|22|1|23|0|0|0|24|0|0|25|19|0|
